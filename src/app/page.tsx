@@ -8,6 +8,7 @@ export default function Home() {
       <ProdutoItem produto={produtos[1]}/>
       <ProdutoItem produto={produtos[2]}/>
       <ProdutoItem produto={produtos[18]}/>
+      <ProdutoItem produto={produtos[15]}/>
     </div>
     
   );
